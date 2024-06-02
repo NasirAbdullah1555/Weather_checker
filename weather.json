@@ -1,0 +1,73 @@
+[
+    {
+      "city": "New York",
+      "weather": {
+        "description": "clear sky",
+        "temperature": 25,
+        "humidity": 60,
+        "wind_speed": 5,
+        "icon": "01d"
+      }
+    },
+    {
+      "city": "London",
+      "weather": {
+        "description": "few clouds",
+        "temperature": 18,
+        "humidity": 70,
+        "wind_speed": 4,
+        "icon": "02d"
+      }
+    },
+    {
+      "city": "Tokyo",
+      "weather": {
+        "description": "scattered clouds",
+        "temperature": 22,
+        "humidity": 65,
+        "wind_speed": 6,
+        "icon": "03d"
+      }
+    },
+    {
+      "city": "Paris",
+      "weather": {
+        "description": "broken clouds",
+        "temperature": 20,
+        "humidity": 72,
+        "wind_speed": 5,
+        "icon": "04d"
+      }
+    },
+    {
+      "city": "Sydney",
+      "weather": {
+        "description": "shower rain",
+        "temperature": 19,
+        "humidity": 75,
+        "wind_speed": 7,
+        "icon": "09d"
+      }
+    },
+    {
+      "city": "Berlin",
+      "weather": {
+        "description": "thunderstorm",
+        "temperature": 17,
+        "humidity": 80,
+        "wind_speed": 10,
+        "icon": "11d"
+      }
+    },
+    {
+      "city": "Moscow",
+      "weather": {
+        "description": "snow",
+        "temperature": -5,
+        "humidity": 90,
+        "wind_speed": 12,
+        "icon": "13d"
+      }
+    }
+  ]
+  
